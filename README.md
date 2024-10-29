@@ -20,7 +20,7 @@ Documentation: Swagger for in-depth API documentation.
 Clone the Repository
 bash
 Copy code
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/VajBharathJakkula/CusomerProducts4
 cd your-repository
 Set up the Database
 Ensure you have a compatible SQL database (e.g., MS SQL, Oracle) and configure the database connection details in application.properties or application.yml.
